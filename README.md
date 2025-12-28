@@ -4,9 +4,6 @@
 
 A production-ready task management system with **AI-powered auto-classification**, Supabase persistence, and polished Flutter dashboard.
 
-[![Backend Status](https://api.render.com/status/YOUR_RENDER_SERVICE_ID)](https://YOUR_RENDER_URL.com)
-[![Flutter Tests](https://github.com/YOUR_USERNAME/smart-site-task-manager/actions/workflows/flutter.yml/badge.svg)](https://github.com/YOUR_USERNAME/smart-site-task-manager/actions)
-
 ## 🎯 Features
 
 - **5 Core API Endpoints** (CRUD + filters/pagination)
@@ -26,11 +23,6 @@ A production-ready task management system with **AI-powered auto-classification*
 | **Frontend** | Flutter, Riverpod, Dio |
 | **Deployment** | Render (backend), Supabase (DB) |
 | **Testing** | Vitest (backend) |
-
-## 🚀 Live Demo
-
-**Backend API**: https://your-app.onrender.com/api/tasks  
-**Flutter App**: (APK/IPA screenshots below)
 
 ## 📋 API Documentation
 
